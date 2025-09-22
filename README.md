@@ -20,20 +20,32 @@ The program runs in the terminal, asks the user for an amount and currencies, th
 git clone https://github.com/Randa-Lakab/Currency-Converter.git
 cd Currency-Converter
 
-### 2. Install dependencies
-```bash
+2. Install dependencies
 npm install
 
-### 3. Run in development (TypeScript directly)
+3. Run in development (TypeScript directly)
 npm run dev
 
-### 4. Build the project
+4. Build the project
 npm run build
 
-### 5. Run compiled JavaScript
+5. Run compiled JavaScript
 npm start
 
+---
 
+### Project Structure
 
+currency-converter/
+│── src/
+│   └── index.ts        # Main program
+│── dist/               # Compiled JavaScript (after build)
+│── package.json
+│── tsconfig.json
+│── README.md
+### Scripts
+npm run dev → Run with ts-node
 
+npm run build → Compile TypeScript to JavaScript (dist/)
 
+npm start → Run the compiled JavaScript
