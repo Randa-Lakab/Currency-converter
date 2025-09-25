@@ -57,10 +57,3 @@ npm run build → Compile TypeScript to JavaScript (dist/)
 
 npm start → Run the compiled JavaScript
 
-### Future Improvements
-
-✓ Add real-time exchange rates using an API
-
-✓ Support more currencies
-
-✓ Add unit tests
