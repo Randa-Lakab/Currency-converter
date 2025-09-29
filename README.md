@@ -6,10 +6,10 @@ The program runs in the terminal, asks the user for an amount and currencies, th
 ---
 
 ##  Features
-- Built with **TypeScript** for type safety.  
-- Interactive command line interface (using Node.js `readline`).  
-- Supports multiple currencies (USD, EUR, GBP, DZD by default).  
-- Easy to extend with more currencies.  
+- Built with **TypeScript** for type safety
+- Interactive command line interface (using Node.js `readline`)
+- Supports multiple currencies (USD, EUR, GBP, DZD by default)  
+- Easy to extend with more currencies  
 
 ---
 
