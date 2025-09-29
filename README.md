@@ -1,4 +1,4 @@
-##  Currency Converter (TypeScript)
+##  Currency Converter
 
 A simple **Currency Converter** built with **TypeScript** and Node.js.  
 The program runs in the terminal, asks the user for an amount and currencies, then outputs the converted value.
