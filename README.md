@@ -49,6 +49,7 @@ currency-converter/
 │── tsconfig.json
 │── README.md
 
+---
 
 ### Scripts
 npm run dev → Run with ts-node
