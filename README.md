@@ -15,25 +15,25 @@ The program runs in the terminal, asks the user for an amount and currencies, th
 
 ##  Getting Started
 
-### 1. Clone the repository
+ 1. Clone the repository
 ```bash
 git clone https://github.com/Randa-Lakab/Currency-Converter.git
 cd Currency-Converter
 ```
 
-### 2. Install dependencies
+ 2. Install dependencies
 ```bash
 npm install
 ```
-### 3. Run in development (TypeScript directly)
+ 3. Run in development (TypeScript directly)
 ```bash
 npm run dev
 ```
-### 4. Build the project
+ 4. Build the project
 ```bash
 npm run build
 ```
-### 5. Run compiled JavaScript
+ 5. Run compiled JavaScript
 ```bash
 npm start
 ```
